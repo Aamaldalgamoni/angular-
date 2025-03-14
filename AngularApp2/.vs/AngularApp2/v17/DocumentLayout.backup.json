@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Orange\\Desktop\\MASTER\\AngularApp2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DA49B9F9-7A28-8B94-44FE-692450FA3A40}|angularapp2.client\\angularapp2.client.esproj|c:\\users\\orange\\desktop\\master\\angularapp2\\angularapp2.client\\src\\app\\more\\more.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DA49B9F9-7A28-8B94-44FE-692450FA3A40}|angularapp2.client\\angularapp2.client.esproj|solutionrelative:angularapp2.client\\src\\app\\more\\more.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA49B9F9-7A28-8B94-44FE-692450FA3A40}|angularapp2.client\\angularapp2.client.esproj|c:\\users\\orange\\desktop\\master\\angularapp2\\angularapp2.client\\src\\app\\more\\more.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{DA49B9F9-7A28-8B94-44FE-692450FA3A40}|angularapp2.client\\angularapp2.client.esproj|solutionrelative:angularapp2.client\\src\\app\\more\\more.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA49B9F9-7A28-8B94-44FE-692450FA3A40}|angularapp2.client\\angularapp2.client.esproj|c:\\users\\orange\\desktop\\master\\angularapp2\\angularapp2.client\\src\\app\\servise\\testservise.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{DA49B9F9-7A28-8B94-44FE-692450FA3A40}|angularapp2.client\\angularapp2.client.esproj|solutionrelative:angularapp2.client\\src\\app\\servise\\testservise.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA49B9F9-7A28-8B94-44FE-692450FA3A40}|angularapp2.client\\angularapp2.client.esproj|c:\\users\\orange\\desktop\\master\\angularapp2\\angularapp2.client\\src\\app\\teatpage\\teatpage.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{DA49B9F9-7A28-8B94-44FE-692450FA3A40}|angularapp2.client\\angularapp2.client.esproj|solutionrelative:angularapp2.client\\src\\app\\teatpage\\teatpage.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA49B9F9-7A28-8B94-44FE-692450FA3A40}|angularapp2.client\\angularapp2.client.esproj|c:\\users\\orange\\desktop\\master\\angularapp2\\angularapp2.client\\src\\app\\teatpage\\teatpage.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DA49B9F9-7A28-8B94-44FE-692450FA3A40}|angularapp2.client\\angularapp2.client.esproj|solutionrelative:angularapp2.client\\src\\app\\teatpage\\teatpage.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA49B9F9-7A28-8B94-44FE-692450FA3A40}|angularapp2.client\\angularapp2.client.esproj|c:\\users\\orange\\desktop\\master\\angularapp2\\angularapp2.client\\src\\app\\app-routing.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{DA49B9F9-7A28-8B94-44FE-692450FA3A40}|angularapp2.client\\angularapp2.client.esproj|solutionrelative:angularapp2.client\\src\\app\\app-routing.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA49B9F9-7A28-8B94-44FE-692450FA3A40}|angularapp2.client\\angularapp2.client.esproj|c:\\users\\orange\\desktop\\master\\angularapp2\\angularapp2.client\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DA49B9F9-7A28-8B94-44FE-692450FA3A40}|angularapp2.client\\angularapp2.client.esproj|solutionrelative:angularapp2.client\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA49B9F9-7A28-8B94-44FE-692450FA3A40}|angularapp2.client\\angularapp2.client.esproj|c:\\users\\orange\\desktop\\master\\angularapp2\\angularapp2.client\\src\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DA49B9F9-7A28-8B94-44FE-692450FA3A40}|angularapp2.client\\angularapp2.client.esproj|solutionrelative:angularapp2.client\\src\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA49B9F9-7A28-8B94-44FE-692450FA3A40}|angularapp2.client\\angularapp2.client.esproj|c:\\users\\orange\\desktop\\master\\angularapp2\\angularapp2.client\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{DA49B9F9-7A28-8B94-44FE-692450FA3A40}|angularapp2.client\\angularapp2.client.esproj|solutionrelative:angularapp2.client\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA49B9F9-7A28-8B94-44FE-692450FA3A40}|angularapp2.client\\angularapp2.client.esproj|c:\\users\\orange\\desktop\\master\\angularapp2\\angularapp2.client\\src\\app\\navbar\\navbar.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DA49B9F9-7A28-8B94-44FE-692450FA3A40}|angularapp2.client\\angularapp2.client.esproj|solutionrelative:angularapp2.client\\src\\app\\navbar\\navbar.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA49B9F9-7A28-8B94-44FE-692450FA3A40}|angularapp2.client\\angularapp2.client.esproj|c:\\users\\orange\\desktop\\master\\angularapp2\\angularapp2.client\\src\\app\\about\\about.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DA49B9F9-7A28-8B94-44FE-692450FA3A40}|angularapp2.client\\angularapp2.client.esproj|solutionrelative:angularapp2.client\\src\\app\\about\\about.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA49B9F9-7A28-8B94-44FE-692450FA3A40}|angularapp2.client\\angularapp2.client.esproj|c:\\users\\orange\\desktop\\master\\angularapp2\\angularapp2.client\\src\\app\\footer\\footer.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DA49B9F9-7A28-8B94-44FE-692450FA3A40}|angularapp2.client\\angularapp2.client.esproj|solutionrelative:angularapp2.client\\src\\app\\footer\\footer.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "teatpage.component.ts",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MASTER\\AngularApp2\\angularapp2.client\\src\\app\\teatpage\\teatpage.component.ts",
+              "RelativeDocumentMoniker": "angularapp2.client\\src\\app\\teatpage\\teatpage.component.ts",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MASTER\\AngularApp2\\angularapp2.client\\src\\app\\teatpage\\teatpage.component.ts",
+              "RelativeToolTip": "angularapp2.client\\src\\app\\teatpage\\teatpage.component.ts",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACMAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-13T08:38:17.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "more.component.ts",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MASTER\\AngularApp2\\angularapp2.client\\src\\app\\more\\more.component.ts",
+              "RelativeDocumentMoniker": "angularapp2.client\\src\\app\\more\\more.component.ts",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MASTER\\AngularApp2\\angularapp2.client\\src\\app\\more\\more.component.ts*",
+              "RelativeToolTip": "angularapp2.client\\src\\app\\more\\more.component.ts*",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAowBYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-14T00:51:58.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "more.component.html",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MASTER\\AngularApp2\\angularapp2.client\\src\\app\\more\\more.component.html",
+              "RelativeDocumentMoniker": "angularapp2.client\\src\\app\\more\\more.component.html",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MASTER\\AngularApp2\\angularapp2.client\\src\\app\\more\\more.component.html",
+              "RelativeToolTip": "angularapp2.client\\src\\app\\more\\more.component.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-03-14T00:49:50.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "teatpage.component.html",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MASTER\\AngularApp2\\angularapp2.client\\src\\app\\teatpage\\teatpage.component.html",
+              "RelativeDocumentMoniker": "angularapp2.client\\src\\app\\teatpage\\teatpage.component.html",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MASTER\\AngularApp2\\angularapp2.client\\src\\app\\teatpage\\teatpage.component.html",
+              "RelativeToolTip": "angularapp2.client\\src\\app\\teatpage\\teatpage.component.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-03-13T08:39:01.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MASTER\\AngularApp2\\angularapp2.client\\src\\index.html",
+              "RelativeDocumentMoniker": "angularapp2.client\\src\\index.html",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MASTER\\AngularApp2\\angularapp2.client\\src\\index.html",
+              "RelativeToolTip": "angularapp2.client\\src\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAADUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-03-13T17:39:07.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "testservise.service.ts",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MASTER\\AngularApp2\\angularapp2.client\\src\\app\\servise\\testservise.service.ts",
+              "RelativeDocumentMoniker": "angularapp2.client\\src\\app\\servise\\testservise.service.ts",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MASTER\\AngularApp2\\angularapp2.client\\src\\app\\servise\\testservise.service.ts",
+              "RelativeToolTip": "angularapp2.client\\src\\app\\servise\\testservise.service.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-13T23:27:41.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "app.component.html",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MASTER\\AngularApp2\\angularapp2.client\\src\\app\\app.component.html",
+              "RelativeDocumentMoniker": "angularapp2.client\\src\\app\\app.component.html",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MASTER\\AngularApp2\\angularapp2.client\\src\\app\\app.component.html",
+              "RelativeToolTip": "angularapp2.client\\src\\app\\app.component.html",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAiwB4AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-03-13T08:39:40.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "app-routing.module.ts",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MASTER\\AngularApp2\\angularapp2.client\\src\\app\\app-routing.module.ts",
+              "RelativeDocumentMoniker": "angularapp2.client\\src\\app\\app-routing.module.ts",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MASTER\\AngularApp2\\angularapp2.client\\src\\app\\app-routing.module.ts",
+              "RelativeToolTip": "angularapp2.client\\src\\app\\app-routing.module.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-13T17:46:37.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "navbar.component.html",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MASTER\\AngularApp2\\angularapp2.client\\src\\app\\navbar\\navbar.component.html",
+              "RelativeDocumentMoniker": "angularapp2.client\\src\\app\\navbar\\navbar.component.html",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MASTER\\AngularApp2\\angularapp2.client\\src\\app\\navbar\\navbar.component.html",
+              "RelativeToolTip": "angularapp2.client\\src\\app\\navbar\\navbar.component.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-03-13T17:39:18.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "app.module.ts",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MASTER\\AngularApp2\\angularapp2.client\\src\\app\\app.module.ts",
+              "RelativeDocumentMoniker": "angularapp2.client\\src\\app\\app.module.ts",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MASTER\\AngularApp2\\angularapp2.client\\src\\app\\app.module.ts",
+              "RelativeToolTip": "angularapp2.client\\src\\app\\app.module.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-13T18:29:34.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "footer.component.html",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MASTER\\AngularApp2\\angularapp2.client\\src\\app\\footer\\footer.component.html",
+              "RelativeDocumentMoniker": "angularapp2.client\\src\\app\\footer\\footer.component.html",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MASTER\\AngularApp2\\angularapp2.client\\src\\app\\footer\\footer.component.html",
+              "RelativeToolTip": "angularapp2.client\\src\\app\\footer\\footer.component.html",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAAAG4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-03-13T17:43:10.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "about.component.html",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\MASTER\\AngularApp2\\angularapp2.client\\src\\app\\about\\about.component.html",
+              "RelativeDocumentMoniker": "angularapp2.client\\src\\app\\about\\about.component.html",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\MASTER\\AngularApp2\\angularapp2.client\\src\\app\\about\\about.component.html",
+              "RelativeToolTip": "angularapp2.client\\src\\app\\about\\about.component.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-03-13T17:45:47.244Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

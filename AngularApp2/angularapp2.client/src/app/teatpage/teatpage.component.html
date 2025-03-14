@@ -1,0 +1,33 @@
+<p>teatpage works!</p>
+
+<h1>{{title}}</h1>
+<img [src]="imageUrl" alr="peach" />
+<button [disabled]="isdisable">Click</button>
+<div [hidden]="hidden">this gonna be disappear if it true</div>
+<p [innerText]="inertext"></p>
+
+<button (click)="handelclick()">click here</button>
+<input [(ngModel)]="username" placeholder="أدخل اسمك">
+<p>اسمك هو: {{ username }}</p>
+
+
+<table class="table">
+  <thead>
+    <tr>
+      <th scope="col">#</th>
+      <th scope="col">First</th>
+      <th scope="col">Last</th>
+      <th scope="col">Handle</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr *ngFor="let item of categorydata">
+      <th scope="row">1</th>
+      <td>{{item.id}}</td>
+      <td>{{item.name}}</td>
+      <td><a href="/more/{{item.id}}">more</a></td>
+    </tr>
+    <tr>
+  
+  </tbody>
+</table>
