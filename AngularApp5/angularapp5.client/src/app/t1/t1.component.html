@@ -1,0 +1,30 @@
+<p>t1 works!</p>
+<h2>use DatePipe</h2>
+<p>date: {{ today }}</p>
+<p>📅 Short Date: {{ today | date:'shortDate' }}</p>
+<p>📅 Medium Date: {{ today | date:'mediumDate' }}</p>
+<p>📅 Full Date: {{ today | date:'fullDate' }}</p>
+<p>📅 Custom Format: {{ today | date:'dd/MM/yyyy' }}</p>
+
+
+
+
+
+<h2>use JSON</h2>
+<pre>{{ user | json }}</pre>
+
+
+
+
+<h2>{{ "Hi" | uppercase}}</h2>
+<h2>{{"welcome" | lowercase}}</h2>
+
+
+<h3>{{15.2689 | number:'3.2-2'}}</h3>
+<h3>{{1234.5678 | number:'1.2-2'}}</h3>
+
+<h3>{{2500 | currency:'USD':'$':'1.2-2'}}</h3>
+<h3>{{0.70 | percent:'1.2-2'}}</h3>
+
+<p>{{ 'Angular Pipes' | slice:0:7 }}</p>
+<p>{{ [10, 20, 30, 40, 50] | slice:1:3 }}</p>

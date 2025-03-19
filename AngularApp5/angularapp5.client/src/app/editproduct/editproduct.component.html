@@ -1,0 +1,15 @@
+<p>editproduct works!</p>
+
+
+<form #adp="ngForm" (ngSubmit)="eedd(adp.value)">
+  <div class="mb-3">
+    <label for="exampleInputEmail1" class="form-label">name</label>
+    <input type="text" name="name" {(ngModel)}="pppppro.name" class="form-control">
+  </div>
+  <div class="mb-3">
+    <label for="exampleInputPassword1" class="form-label">img</label>
+    <input type="text" name="img" {(ngModel)}="pppppro.img" class="form-control">
+  </div>
+
+  <button type="submit" class="btn btn-primary">Submit</button>
+</form>

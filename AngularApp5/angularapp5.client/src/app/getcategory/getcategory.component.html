@@ -1,0 +1,32 @@
+<p>getcategory works!</p>
+<table class="table">
+  <thead>
+    <tr>
+
+      <th scope="col">name</th>
+      <th scope="col">img</th>
+      <th scope="col">id</th>
+
+
+    </tr>
+  </thead>
+  <tbody>
+    <tr *ngFor="let item of b">
+
+      <td>{{item.id}}</td>
+      <td>{{item.name}}</td>
+      <td>{{item.img}}</td>
+
+      <!--<a href="/editcategoru/{{item.id}}">Edit</a>-->
+      <!--<td><a [routerLink]="['/editcategory', item.id]">Edit</a></td>-->
+      <!--<td><a routerLink="/editcategory/{{item.id}}">Edit</a></td>-->
+      <td><a [routerLink]="['/editcategory', item.id]">Edit</a></td>
+
+      <!--<td><a [routerLink]="['/editcategory', item.id]">Edit</a></td>-->
+      <!--<td><a href="/editcategoru/{{item.id}}">Edit</a></td>-->
+      <!--<td><a href="more/{{item.id}}">more</a></td>-->
+    </tr>
+    <tr>
+
+  </tbody>
+</table>

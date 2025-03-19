@@ -1,0 +1,24 @@
+{
+  "Version": 1,
+  "Hash": "MJPAn8lGDi5ynVxCSSxUL2y7R45UVklw6YBPQuIcEg8=",
+  "Source": "AngularApp5.Server",
+  "BasePath": "_content/AngularApp5.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\Orange\\Desktop\\MASTER\\AngularApp5\\angularapp5.client\\angularapp5.client.esproj",
+      "Version": 2,
+      "Source": "angularapp5.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
