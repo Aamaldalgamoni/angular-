@@ -1,0 +1,20 @@
+
+
+<button routerLink="/addpro"class="btn btn-primary"> Add product</button>
+
+<table class="table">
+  <thead>
+    <tr>
+      <th scope="col">#</th>
+      <th scope="col">ID</th>
+      <th scope="col">Name</th>
+    </tr>
+  </thead>
+  <tbody>
+      <tr *ngFor="let thing of prod">
+      <!--<th scope="row">{{ prod.id }}</th>-->
+        <td>{{ thing.id }}</td>
+        <td>{{ thing.name }}</td>
+    </tr>
+  </tbody>
+</table>
