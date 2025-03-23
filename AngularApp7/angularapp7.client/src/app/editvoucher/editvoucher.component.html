@@ -1,0 +1,20 @@
+<p>editvoucher works!</p>
+
+
+
+
+<form #editt="ngForm" (ngSubmit)="edvou(editt.value)">
+  <div class="mb-3">
+    <label for="exampleInputEmail1" class="form-label">name</label>
+    <input type="text" name="name" [(ngModel)]="g.name" class="form-control">
+  </div>
+  <div class="mb-3">
+    <label for="exampleInputPassword1" class="form-label">quantity</label>
+    <input type="text" name="quantity" [(ngModel)]="g.quantity" class="form-control">
+  </div>
+  <div class="mb-3">
+    <label for="exampleInputPassword1" class="form-label">price</label>
+    <input type="number" name="price" [(ngModel)]="g.price" class="form-control">
+  </div>
+  <button type="submit" class="btn btn-primary">Submit</button>
+</form>

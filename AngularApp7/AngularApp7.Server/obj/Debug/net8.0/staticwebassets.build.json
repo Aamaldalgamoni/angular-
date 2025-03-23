@@ -1,0 +1,24 @@
+{
+  "Version": 1,
+  "Hash": "mjkydK547zOe6c8TtwVyOmBfiW3cRS7F+IPWyWNZff4=",
+  "Source": "AngularApp7.Server",
+  "BasePath": "_content/AngularApp7.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\Orange\\Desktop\\MASTER\\AngularApp7\\angularapp7.client\\angularapp7.client.esproj",
+      "Version": 2,
+      "Source": "angularapp7.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
